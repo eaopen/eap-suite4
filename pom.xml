@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
-    <description>openEAP suite4</description>
+    <description>openEAP suite4(customized business)</description>
     <url>https://github.com/eaopen/openea-eap</url>
 
     <properties>
